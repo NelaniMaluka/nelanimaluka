@@ -14,7 +14,7 @@
 <!-- stats -->
 ### Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelanimaluka&layout=compact"/>
-<img align="left" width="47%" height="230px" src="https://github-readme-stats.vercel.app/api?username=nelanimaluka&show_icons=true&bg_color=00000000"/> 
+<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=nelanimaluka&show_icons=true&bg_color=00000000"/> 
  
 <!--
 **NelaniMaluka/nelanimaluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
