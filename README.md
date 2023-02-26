@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Nelani Maluka
 
 <!-- languages -->
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+### Languages and Tools
+<img align="left" margin-top="100px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -12,7 +13,7 @@
 
 <!-- stats -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelanimaluka&layout=compact"/>
-<img align="left" width="47%" height="230px" src="https://github-readme-stats.vercel.app/api?username=nelanimaluka&show_icons=true&bg_color=00000000"/>div
+<img align="left" width="47%" height="230px" src="https://github-readme-stats.vercel.app/api?username=nelanimaluka&show_icons=true&bg_color=00000000"/>
  
 <!--
 **NelaniMaluka/nelanimaluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
