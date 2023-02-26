@@ -12,10 +12,9 @@
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 
 <!-- stats -->
-<div>
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelanimaluka&layout=compact"/>
-  <img align="left" width="45%" height="230px" src="https://github-readme-stats.vercel.app/api?username=nelanimaluka&show_icons=true&bg_color=00000000"/>
-</div> 
+### Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelanimaluka&layout=compact"/>
+<img align="left" width="47%" height="230px" src="https://github-readme-stats.vercel.app/api?username=nelanimaluka&show_icons=true&bg_color=00000000"/> 
  
 <!--
 **NelaniMaluka/nelanimaluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
