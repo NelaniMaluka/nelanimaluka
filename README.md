@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/nelanimaluka/" target="blank">LinkedIn</a>
+- 📫 How to reach me <Link to="mailto:malukanelani@gmail.com"> malukanelani@gmail.com </Link>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
