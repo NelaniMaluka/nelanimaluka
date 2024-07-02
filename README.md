@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelanimaluka&label=Profile%20views&color=0e75b6&style=flat" alt="nelanimaluka" /> </p>
 
-- 🔭 I’m currently working on [Kick Land](https://github.com/NelaniMaluka/kick-land)
+- 🔭 I’m currently working on [WeatherApp](https://github.com/NelaniMaluka/WeatherApp)
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/NelaniMaluka?tab=repositories" target="blank">at</a> 
 
