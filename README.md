@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nelani</h1>
-<h3 align="center">I'm a software developer passionate about crafting innovative solutions. Explore my projects to see my expertise, and feel free to reach out for collaboration opportunities or discussions on technology trends.</h3>
+<h3 >Full-Stack Developer | Frontend & Backend Projects</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelanimaluka&label=Profile%20views&color=0e75b6&style=flat" alt="nelanimaluka" /> </p>
+
 
 - 🔭 I’m currently working on [Blog Land](https://github.com/NelaniMaluka/Blog-Land)
 
@@ -21,15 +21,12 @@
 Languages:
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
  <img margin-top="100px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 Libraries/Frameworks:
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 Databases/DevOps:
