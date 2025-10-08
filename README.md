@@ -4,7 +4,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;"> 
    <tr valign="top">
     <td style="vertical-align: top; width:55%">
-  <h2 align="center">Junior Java Developer</h2>
+  <h2 align="center">Software Developer</h2>
   <p>
     Junior Java Developer focused on <strong>backend and full-stack development</strong>.  
     Building expertise in <strong>Java, Spring Boot, SQL, and cloud platforms</strong>  
