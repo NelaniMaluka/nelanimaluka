@@ -6,7 +6,7 @@
     <td style="vertical-align: top; width:55%">
   <h2 align="center">Software Developer</h2>
   <p>
-    Junior Java Developer focused on <strong>backend and full-stack development</strong>.  
+    Junior Software Developer focused on <strong>backend and full-stack development</strong>.  
     Building expertise in <strong>Java, Spring Boot, SQL, and cloud platforms</strong>  
     with the goal of creating scalable, high-quality software solutions.
   </p>
